@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="button_ok">OK</string>
+    <string name="text_edit">Enter text</string>
+    <string name="rb_normal">Normal</string>
+    <string name="rb_bold">Bold</string>
+    <string name="rb_italic">Italic</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_open">Open</string>
+    <string name="button_back">Back</string>
+    <string name="tv_file">File output</string>
+</resources>
